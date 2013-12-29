@@ -1,0 +1,19 @@
+# Directories.
+build
+
+# Eclipse specific files.
+.cproject
+.project
+.pydevproject
+.settings
+
+# Test specific files.
+test_details_*.xml
+
+# CMake specific files and directories.
+CMakeFiles
+bin
+lib
+CMakeCache.txt
+cmake_install.cmake
+Makefile
